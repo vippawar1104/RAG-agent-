@@ -8,9 +8,6 @@ A Retrieval-Augmented Generation (RAG) workflow built with n8n that automaticall
 
 ![RAG Agent Workflow](RAGagent.png)
 
-### Video Demonstration
-
-[Watch the workflow in action](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## Overview
 
